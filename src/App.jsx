@@ -38,6 +38,7 @@ function decrement() {
 <h1>{likes}</h1>
 
     <button onClick={increment}>Increment</button>
+    
     <button onClick={decrement}>Decrement</button>
     </div>
   )
